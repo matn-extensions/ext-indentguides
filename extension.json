@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.indentguides",
+  "name": "Indentation Guides",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Subtle vertical indent guide lines with active block scope highlighting",
+  "category": "editor",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-indentguides"
+}
